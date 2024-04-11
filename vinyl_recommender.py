@@ -1,7 +1,7 @@
 import json
 import os
 import requests
-from actual_secrets import spotify_token, spotify_user_id
+from actual_secrets import spotify_token
 
 
 class VinylRecommender:
