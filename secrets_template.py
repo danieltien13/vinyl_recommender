@@ -3,3 +3,4 @@
 
 # To get your token, you can run one of the scripts at https://developer.spotify.com/ and copy it over
 spotify_token = ""
+spotify_user_id = ""
