@@ -29,7 +29,7 @@ class VinylRecommender:
 if __name__ == '__main__':
     rec = VinylRecommender()
     song_list = rec.recommend_vinyl()
-    print('Here is a list of 3 albums you might like based your Spotify listening history!')
+    print('Here is a list of 3 vinyl albums you might like to pick up based your Spotify listening history!')
     print()
     album_dict = {}
     for song in song_list['items']:
